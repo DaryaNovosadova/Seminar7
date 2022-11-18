@@ -1,0 +1,15 @@
+C:\STUDIES\seminar7\seminar002\bin\Debug\net6.0\seminar002.exe
+C:\STUDIES\seminar7\seminar002\bin\Debug\net6.0\seminar002.deps.json
+C:\STUDIES\seminar7\seminar002\bin\Debug\net6.0\seminar002.runtimeconfig.json
+C:\STUDIES\seminar7\seminar002\bin\Debug\net6.0\seminar002.dll
+C:\STUDIES\seminar7\seminar002\bin\Debug\net6.0\seminar002.pdb
+C:\STUDIES\seminar7\seminar002\obj\Debug\net6.0\seminar002.csproj.AssemblyReference.cache
+C:\STUDIES\seminar7\seminar002\obj\Debug\net6.0\seminar002.GeneratedMSBuildEditorConfig.editorconfig
+C:\STUDIES\seminar7\seminar002\obj\Debug\net6.0\seminar002.AssemblyInfoInputs.cache
+C:\STUDIES\seminar7\seminar002\obj\Debug\net6.0\seminar002.AssemblyInfo.cs
+C:\STUDIES\seminar7\seminar002\obj\Debug\net6.0\seminar002.csproj.CoreCompileInputs.cache
+C:\STUDIES\seminar7\seminar002\obj\Debug\net6.0\seminar002.dll
+C:\STUDIES\seminar7\seminar002\obj\Debug\net6.0\refint\seminar002.dll
+C:\STUDIES\seminar7\seminar002\obj\Debug\net6.0\seminar002.pdb
+C:\STUDIES\seminar7\seminar002\obj\Debug\net6.0\seminar002.genruntimeconfig.cache
+C:\STUDIES\seminar7\seminar002\obj\Debug\net6.0\ref\seminar002.dll
